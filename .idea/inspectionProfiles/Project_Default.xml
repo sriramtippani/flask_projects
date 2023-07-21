@@ -1,0 +1,187 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E303" />
+          <option value="E225" />
+          <option value="W292" />
+          <option value="E301" />
+          <option value="E402" />
+          <option value="E501" />
+          <option value="W605" />
+          <option value="E265" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="set" />
+          <option value="id" />
+          <option value="type" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="testapp.views.display" />
+          <option value="secondproject.secondproject.urls.applica" />
+          <option value="multipuleapplications.multipuleapplications.urls.AppOne" />
+          <option value="multipuleapplications.multipuleapplications.urls.AppTwo" />
+          <option value="project1.project1.urls.app1" />
+          <option value="p3.testapp1.admin.testapp1" />
+          <option value="mainproject1.application1.admin.application1" />
+          <option value="mainproject1.application1.views.application1" />
+          <option value="mainproject1.application1.urls.application1" />
+          <option value="testapp.models" />
+          <option value="testapp.views.hm" />
+          <option value="testapp.views.hy" />
+          <option value="testapp.views.ba" />
+          <option value="testapp.views.pu" />
+          <option value="p5.app1.admin.app1" />
+          <option value="p5.app1.views.app1" />
+          <option value="p5.p5.urls.app1" />
+          <option value="p5.app1.urls.app1" />
+          <option value="p6.app1.views.app1" />
+          <option value="p6.p6.urls.app1" />
+          <option value="captcha.fields" />
+          <option value="p7.testapp1.admin.testapp1" />
+          <option value="p7.testapp1.forms.testapp1" />
+          <option value="p7.testapp1.views.testapp1" />
+          <option value="p7.testapp1.views.request" />
+          <option value="p7.testapp1.urls.testapp1" />
+          <option value="p7.testapp1.views.Cp_image" />
+          <option value="mainproject.testapp1.admin.testapp1" />
+          <option value="mainproject.testapp1.forms.testapp1" />
+          <option value="mainproject.testapp1.views.testapp1" />
+          <option value="mainproject.testapp1.urls.testapp1" />
+          <option value="mainproject.testapp1.models.YEARS" />
+          <option value="p8.testapp1.admin.testapp1" />
+          <option value="p8.p8.urls.testapp1" />
+          <option value="p8.testapp1.views.testapp1" />
+          <option value="sessionmanagement1.sessionmanagement1.urls.testapp1" />
+          <option value="sessionmanagement1.testapp1.views.username" />
+          <option value="sessionmanagement1.testapp1.views.name" />
+          <option value="miniproject1.testapp1.views.testapp1" />
+          <option value="miniproject1.miniproject1.urls.testapp1" />
+          <option value="miniproject1.testapp1.admin.testapp1" />
+          <option value="sessionmanagement2.sessionmanagement2.urls.testapp1" />
+          <option value="sessionapi1.testapp1.views.testapp1" />
+          <option value="sessionapi1.testapp1.views.NameForm" />
+          <option value="sessionapi1.testapp1.urls.testapp1" />
+          <option value="sessionapi1.testapp1.views.AgeForm" />
+          <option value="sessionmanagement2.testapp1.views.testapp1" />
+          <option value="sessionapi1.testapp1.views.GfForm" />
+          <option value="sessionapi1.testapp1.views.name" />
+          <option value="sessionapi1.testapp1.views.age" />
+          <option value="sessionapi1.testapp1.views.gf" />
+          <option value="sessionapi1.sessionapi1.urls.testapp1" />
+          <option value="sessionapi2.testapp1.views.testapp1" />
+          <option value="sessionapi2.testapp1.urls.testapp1" />
+          <option value="loginout.loginout.urls.app1" />
+          <option value="loginout.app1.views.SignUpForm" />
+          <option value="loginout.app1.views.HttpResponseRedirect" />
+          <option value="loginout.app1.views.app1" />
+          <option value="CRUDoperation.app1.admin.app1" />
+          <option value="CRUDoperation.app1.views.app1" />
+          <option value="CRUDoperation.CRUDoperation.urls.app1" />
+          <option value="CRUDoperation.app1.forms.app1" />
+          <option value="CRUDoperation.app1.views.EmployeeForm" />
+          <option value="CRUD1.app1.admin.app1" />
+          <option value="CRUD1.app1.views.app1" />
+          <option value="CRUD1.app1.urls.app1" />
+          <option value="CRUD1.CRUD1.urls.app1" />
+          <option value="CRUD1.app1.views.Book" />
+          <option value="CRUD2.app1.urls.app1" />
+          <option value="CRUD2.app1.admin.app1" />
+          <option value="CRUD2.app1.views.app1" />
+          <option value="middleware1.middleware1.urls.app1" />
+          <option value="middleware2.middleware2.urls.app1" />
+          <option value="miniproject_1.app_1.urls.app_1" />
+          <option value="miniproject_1.app_1.views.app_1" />
+          <option value="miniproject_1.app_1.forms.app_1" />
+          <option value="miniproject_1.app_1.admin.app_1" />
+          <option value="miniproject_1.app_1.views.JavaForm" />
+          <option value="miniproject_1.app_1.views.app1" />
+          <option value="Kyvorproject.app1.urls.app1" />
+          <option value="Kyvorproject.app1.admin.app1" />
+          <option value="Kyvorproject.app1.forms.app1" />
+          <option value="Kyvorproject.app1.views.app1" />
+          <option value="proj1.app1.urls.app1" />
+          <option value="proj1.app1.admin.app1" />
+          <option value="proj1.app1.forms.app1" />
+          <option value="proj1.app1.views.app1" />
+          <option value="proj1.app1.models.DateInput" />
+          <option value="proj1.app1.views.First_Name" />
+          <option value="proj1.app1.views.Last_Name" />
+          <option value="proj1.app1.views.Gender" />
+          <option value="proj1.app1.views.Phone_Number" />
+          <option value="proj1.app1.views.Email_Address" />
+          <option value="proj1.app1.views.Address" />
+          <option value="proj1.app1.views.Date_Of_Birth" />
+          <option value="withoutrestframework.app1.admin.app1" />
+          <option value="withoutrestframework.app1.urls.app1" />
+          <option value="withoutrestframework.app1.views.app1" />
+          <option value="withoutrestframework.app1.forms.app1" />
+          <option value="DRF1.app1.admin.app1" />
+          <option value="DRF1.app1.urls.app1" />
+          <option value="DRF1.app1.views.app1" />
+          <option value="APIView_proj.app1.views.app1" />
+          <option value="APIView_proj.APIView_proj.urls.app1" />
+          <option value="APIView_proj.app1.serializers.app1" />
+          <option value="APIView_proj.app1.admin.app1" />
+          <option value="ViewSet_proj.app1.admin.app1" />
+          <option value="ViewSet_proj.app1.serializers.app1" />
+          <option value="ViewSet_proj.app1.views.app1" />
+          <option value="ViewSet_proj.ViewSet_proj.urls.app1" />
+          <option value="custom_authentication.app1.admin.app1" />
+          <option value="custom_authentication.app1.serializers.app1" />
+          <option value="custom_authentication.app1.views.app1" />
+          <option value="custom_authentication.custom_authentication.urls.app1" />
+          <option value="custom_authentication.custom_authentication.urls.rest_framework_simplejwt" />
+          <option value="custom_authentication.app1.views.rest_framework_simplejwt" />
+          <option value="custom_authentication2.app1.serializers.app1" />
+          <option value="custom_authentication2.app1.admin.app1" />
+          <option value="custom_authentication2.app1.views.app1" />
+          <option value="custom_authentication2.custom_authentication2.urls.app1" />
+          <option value="nested_serializer.app1.admin.app1" />
+          <option value="nested_serializer.app1.serializers.app1" />
+          <option value="nested_serializer.app1.views.app1" />
+          <option value="nested_serializer.nested_serializer.urls.app1" />
+          <option value="nested_serializer.app1.serializers.BookSerializer" />
+          <option value="basic_session_authentication.app1.serializers.app1" />
+          <option value="basic_session_authentication.app1.views.app1" />
+          <option value="basic_session_authentication.basic_session_authentication.urls.app1" />
+          <option value="basic_session_authentication.basic_session_authentication.urls.django" />
+          <option value="swagger_tool.swagger_tool.urls.app1" />
+          <option value="swagger_tool.app1.serializers.app1" />
+          <option value="swagger_tool.app1.admin.app1" />
+          <option value="swagger_tool.app1.views.app1" />
+          <option value="swagger_tool.swagger_tool.urls.rest_framework_swagger" />
+          <option value="swagger_tool.swagger_tool.urls.get_swagger_view" />
+          <option value="rest_framework.documentation.get_swagger_view" />
+          <option value="swagger_tool.swagger_tool.urls.drf_yasg" />
+          <option value="django_with_api.app1.admin.app1" />
+          <option value="django_with_api.app1.urls.app1" />
+          <option value="django_with_api.app1.views.app1" />
+          <option value="django_with_api.app1.api.serializers.app1" />
+          <option value="django_with_api.app1.api.views.app1" />
+          <option value="django_with_api.app1.api.urls.app1" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
